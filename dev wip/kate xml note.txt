@@ -1,0 +1,11 @@
+<dictionary id="">
+	<node lionid="lionid1" fontSize="12" color="red" maxWidth="350">This is Text</node>
+</dictionary>
+
+kate	{
+	event	{00:00:05 --> 00:00:10	"lionid1"}
+}
+
+<kate>
+	<event start="00:00:05" end="00:00:10">lionid1</event>
+</kate>

@@ -9,12 +9,7 @@ VIDEO PLAYER X3 - flash video player that allows splitting content three ways, b
 
 ## Rough Roadmap
 
-1.	choose a subtitle format that supports basic typographic styling + positioning, ideally allows for arbitrary attributes:
-		1.	[Kate](http://wiki.xiph.org/OggKate#Metadata)
-		2.	[SAMI](http://en.wikipedia.org/wiki/SAMI)
-		3.	[SMIL](http://www.w3.org/TR/SMIL/)
-		4.	[TTML](http://www.w3.org/TR/ttaf1-dfxp/)
-		5.	[WebVTT](http://dev.w3.org/html5/webvtt/)
+1.	~~choose a simple subtitle format: [KateXML](http://wiki.xiph.org/OggKate#An_XML_representation)~~
 2.	implement video playback
 3.	implement audio playback
 4.	implement basic subtitle display + timing
