@@ -22,6 +22,13 @@ VIDEO PLAYER X3 - flash video player that allows splitting content three ways, b
 11.	bugtest / fix inevitable sync issues
 12.	release!
 
+
+1.	write a TimedText class - on 'tick' controlled by external clock (onProgress, onEnterFrame, onTimer) that checks time elapse / progress and reacts, showing / hiding Ryan's new TextBox styled - pulls content from TimedTextContent
+2.	write a video playback (lite extension on BasicVideoPlayer) and hook TimedText into video progress
+3.	write an audio playback thing
+4.	sync video / audio / text
+5.	
+
 ## Documentation
 
 start the instance out with a videofile, play it or don't, and apply additional options
