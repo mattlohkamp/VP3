@@ -1,7 +1,7 @@
 ﻿package  {
 	
 	import flash.display.MovieClip;
-	import ml.VP3;
+	import ml.VP3.*;
 	
 	
 	public class test extends MovieClip {
